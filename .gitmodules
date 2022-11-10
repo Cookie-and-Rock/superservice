@@ -1,6 +1,0 @@
-[submodule "modules/accounts/frontend"]
-	path = modules/accounts/frontend
-	url = https://github.com/Cookie-and-Rock/accounts-frontend.git
-[submodule "modules/accounts/backend"]
-	path = modules/accounts/backend
-	url = https://github.com/Cookie-and-Rock/accounts-backend.git
